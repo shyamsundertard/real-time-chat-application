@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-This repository serves as the main project hub for a full-stack real-time chat application built with React, Strapi, Node.js, and Socket.IO.
+This repository serves as the main project hub for a full-stack real-time chat application built with Nextjs, Strapi, Node.js, and Socket.IO.
 
 ## Website: https://quick-ping.vercel.app/QuickPing
 ### Dummy Account Credentials:
